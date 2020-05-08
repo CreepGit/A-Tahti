@@ -16,3 +16,4 @@ Kuvia, teksti on lisätty kuviin kuvankäsittely ohjelmalla:
 ![](Images/python_2020-05-08_11-52-37.png)
 ![](Images/python_2020-05-08_12-01-38.png)
 ![](Images/python_2020-05-08_12-15-36.png)
+![](Images/python_2020-05-08_12-22-40.png)
