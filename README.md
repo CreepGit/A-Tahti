@@ -12,7 +12,7 @@ Ohjelam esittää oletetun etäisyyden alku pisteestä sekä loppu pisteestä, j
 
 Lisää A* algorytmistä [wikipedia.fi](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
-Kuvia, teksti on lisätty kuviin kuvankäsittely ohjelmalla:  
+Kuvia, punainen pyöreä teksti on lisätty kuviin kuvankäsittely ohjelmalla:  
 ![](Images/python_2020-05-08_11-52-37.png)
 ![](Images/python_2020-05-08_12-01-38.png)
 ![](Images/python_2020-05-08_12-15-36.png)
