@@ -18,6 +18,6 @@ Käyttäjä on laittanut esteen aloitus- ja lopetuspisteiden välille.
 ![](Images/python_2020-05-08_12-01-38.png)  
 Ylempi kuva suoritettuna
 ![](Images/python_2020-05-08_12-15-36.png)  
-Ohjelma selviää sokkeloista
+Ohjelma selviää sokkeloista  
 ![](Images/python_2020-05-08_12-22-40.png)  
 Ohjelma on ratkaisemassa polkua, kuva otettu ennen sen löytämistä
